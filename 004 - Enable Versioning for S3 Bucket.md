@@ -29,10 +29,9 @@
 
     
 7. Confirm the success message appears and **Bucket Versioning** shows as **Enabled**.
-    
-    ![Uploading image.png…]()
 
-    
+    <img width="1469" height="990" alt="image" src="https://github.com/user-attachments/assets/22b0bbf2-c77c-4505-b2fa-4e000cbe3649" />
+
 
 ---
 
