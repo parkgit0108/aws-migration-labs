@@ -13,21 +13,21 @@
 1. Sign in to the AWS Console using the provided credentials and URL.
 2. Open **Amazon S3**.
     
-    ![image.png](Enable%20Versioning%20for%20S3/image.png)
+    ![image.png](attachment:fa6a72fa-7f4c-4e9c-8adf-c6f9a58d9889:image.png)
     
 3. Select the bucket **`datacenter-s3-21157`**.
 4. Go to **Properties**.
     
-    ![image.png](Enable%20Versioning%20for%20S3/image%201.png)
+    ![image.png](attachment:1bfbf509-9fbc-410b-89b8-8619248b09c7:image.png)
     
 5. Click **Edit**.
 6. Select **Enable**, then click **Save changes**.
     
-    ![image.png](Enable%20Versioning%20for%20S3/image%202.png)
+    ![image.png](attachment:4b48d4cb-0fab-4d8c-b3b4-d421b6a75b3c:image.png)
     
 7. Confirm the success message appears and **Bucket Versioning** shows as **Enabled**.
     
-    ![image.png](Enable%20Versioning%20for%20S3/image%203.png)
+    ![image.png](attachment:66b8f8ef-6aba-4052-8eb9-61457a072bc5:image.png)
     
 
 ---
