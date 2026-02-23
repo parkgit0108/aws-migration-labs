@@ -13,7 +13,8 @@
 1. Sign in to the AWS Console using the provided credentials and URL.
 2. Open **Amazon S3**.
     
-    ![image.png](attachment:fa6a72fa-7f4c-4e9c-8adf-c6f9a58d9889:image.png)
+    <img width="1473" height="663" alt="image" src="https://github.com/user-attachments/assets/2d5589a3-43eb-4956-916d-88a827142046" />
+
     
 3. Select the bucket **`datacenter-s3-21157`**.
 4. Go to **Properties**.
