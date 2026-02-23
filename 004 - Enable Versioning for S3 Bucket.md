@@ -19,16 +19,19 @@
 3. Select the bucket **`datacenter-s3-21157`**.
 4. Go to **Properties**.
     
-    ![image.png](attachment:1bfbf509-9fbc-410b-89b8-8619248b09c7:image.png)
+    <img width="1466" height="697" alt="image" src="https://github.com/user-attachments/assets/5820b45a-a22e-4239-a6f6-13866666f6b0" />
+
     
 5. Click **Edit**.
 6. Select **Enable**, then click **Save changes**.
     
-    ![image.png](attachment:4b48d4cb-0fab-4d8c-b3b4-d421b6a75b3c:image.png)
+    <img width="1478" height="645" alt="image" src="https://github.com/user-attachments/assets/2a601dd4-9874-4b0b-805b-62db737feb05" />
+
     
 7. Confirm the success message appears and **Bucket Versioning** shows as **Enabled**.
     
-    ![image.png](attachment:66b8f8ef-6aba-4052-8eb9-61457a072bc5:image.png)
+    ![Uploading image.png…]()
+
     
 
 ---
