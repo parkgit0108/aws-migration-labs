@@ -19,12 +19,14 @@
     - Choose or create the required **key pair**.
     - Choose or create the required **security group**.
         
-        ![image.png](Launch%20EC2%20Instance/image.png)
+        <img width="1468" height="1317" alt="image" src="https://github.com/user-attachments/assets/daa675ef-c4ca-40be-bb6b-838786c4b6e8" />
+
         
 6. Click **Launch instance**.
 7. Confirm the instance appears in the list and is **Running**, then rename or tag it as required.
     
-    ![image.png](Launch%20EC2%20Instance/image%201.png)
+    <img width="1445" height="1309" alt="image" src="https://github.com/user-attachments/assets/5661f46f-8ba0-48fd-8842-786c17d779d6" />
+
     
 
 ---
