@@ -15,13 +15,15 @@
 3. In the left sidebar, go to **Elastic Block Store → Volumes**.
 4. Click **Create volume**.
     
-    ![image.png](Create%20GP3%20Volume/image.png)
+    <img width="1474" height="993" alt="image" src="https://github.com/user-attachments/assets/e1e8eaa5-d3d4-4bed-9ef8-029e627c076a" />
+
     
 5. Fill out the form using the provided requirements.
 6. Click **Create volume**.
 7. Confirm the volume appears in the list, then rename or tag it as required.
     
-    ![image.png](Create%20GP3%20Volume/image%201.png)
+    <img width="1471" height="656" alt="image" src="https://github.com/user-attachments/assets/01b197b5-b047-4719-912c-ca6c9b99023b" />
+
     
 
 ---
@@ -34,4 +36,4 @@
     - **State:** Available (or In-use if attached)
     - **Name/Tags:** Match the provided requirements
         
-        ![image.png](Create%20GP3%20Volume/image%202.png)
+    <img width="1475" height="973" alt="image" src="https://github.com/user-attachments/assets/a343acdd-b9e7-4d1a-95f8-e54c8f6b80ba" />
