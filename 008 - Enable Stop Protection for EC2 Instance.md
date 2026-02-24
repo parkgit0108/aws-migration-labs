@@ -16,15 +16,15 @@
 4. Select the instance you want to protect.
 5. Go to **Actions → Instance settings → Change stop protection**.
     
-    ![image.png](Enable%20Stop%20Protection%20for%20EC2%20Instance/image.png)
+    <img width="1464" height="965" alt="image" src="https://github.com/user-attachments/assets/71680940-6d90-423e-8dc5-ba2c6c9619b0" />
     
 6. Tick **Enable** and click **Save**.
     
-    ![image.png](Enable%20Stop%20Protection%20for%20EC2%20Instance/image%201.png)
+    <img width="1329" height="769" alt="image" src="https://github.com/user-attachments/assets/61ab29e8-ea34-401e-a641-d686606486ae" />
     
 7. Confirm **Stop protection** is enabled in the instance details.
     
-    ![image.png](Enable%20Stop%20Protection%20for%20EC2%20Instance/image%202.png)
+    <img width="1470" height="1152" alt="image" src="https://github.com/user-attachments/assets/5e8f9f2e-3f67-49ce-af45-f8a3c50f0dc2" />
     
 
 ---
