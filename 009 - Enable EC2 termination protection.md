@@ -16,15 +16,15 @@
 4. Select the instance you want to protect.
 5. Go to **Actions → Instance settings → Change termination protection**.
     
-    ![image.png](Enable%20EC2%20termination%20protection/image.png)
+    <img width="1459" height="812" alt="image" src="https://github.com/user-attachments/assets/5ef81617-182e-4cec-b8f8-7bb0b2422f2a" />
     
 6. Tick **Enable** and click **Save**.
     
-    ![image.png](Enable%20EC2%20termination%20protection/image%201.png)
+    <img width="1300" height="685" alt="image" src="https://github.com/user-attachments/assets/0c941efd-f1c7-4f27-8cf9-1c11e588911f" />
     
-7. Confirm **Termination protection** is enabled in the instance details.
+8. Confirm **Termination protection** is enabled in the instance details.
     
-    ![image.png](Enable%20EC2%20termination%20protection/image%202.png)
+    <img width="1458" height="1190" alt="image" src="https://github.com/user-attachments/assets/d3457b6c-42ca-4c9b-a07d-e46dc049a475" />
     
 
 ---
