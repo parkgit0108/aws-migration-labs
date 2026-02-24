@@ -18,18 +18,18 @@
 4. Select the network interface you want to attach.
 5. Go to **Actions → Attach**.
     
-    ![image.png](Attach%20Elastic%20Network%20Interface%20to%20EC2%20Instance/image.png)
+    <img width="1469" height="985" alt="image" src="https://github.com/user-attachments/assets/c0d771ce-f681-4ad4-95bd-60a88ed90ece" />
     
 6. Fill out the fields with the provided information, then click **Attach**.
     
-    ![image.png](Attach%20Elastic%20Network%20Interface%20to%20EC2%20Instance/image%201.png)
+    <img width="906" height="1251" alt="image" src="https://github.com/user-attachments/assets/0be568e1-9063-4942-802f-b587da51d6d9" />
     
 7. Confirm the instance now shows the attached network interface:
     1. Go to **Instances → Instances**.
     2. Select the instance.
     3. Go to the **Networking** section and confirm the interface is listed.
         
-        ![image.png](Attach%20Elastic%20Network%20Interface%20to%20EC2%20Instance/image%202.png)
+        <img width="1465" height="1243" alt="image" src="https://github.com/user-attachments/assets/bc3e6c1b-9276-4244-87af-ccc631f9a6e9" />
         
 
 ### Quick check
