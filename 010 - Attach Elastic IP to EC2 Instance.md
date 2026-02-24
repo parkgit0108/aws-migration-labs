@@ -18,18 +18,18 @@
 4. Select the Elastic IP you want to attach.
 5. Go to **Actions → Associate Elastic IP address**.
     
-    ![image.png](Attach%20Elastic%20IP%20to%20EC2%20Instance/image.png)
+    <img width="1468" height="792" alt="image" src="https://github.com/user-attachments/assets/87342767-dbd4-488f-924f-0c0084de3e5a" />
     
 6. Fill out the fields with the provided information, then click **Associate**.
     
-    ![image.png](Attach%20Elastic%20IP%20to%20EC2%20Instance/image%201.png)
+    <img width="1473" height="532" alt="image" src="https://github.com/user-attachments/assets/9e4646d9-094b-45fc-82f8-e1cbb578b9ae" />
     
 7. Confirm the instance now shows the Elastic IP:
     1. Go to **Instances → Instances**.
     2. Select the instance.
     3. Check the instance **Details** section.
         
-        ![image.png](Attach%20Elastic%20IP%20to%20EC2%20Instance/image%202.png)
+        <img width="1471" height="875" alt="image" src="https://github.com/user-attachments/assets/a9f9a957-8454-4861-ad94-bf841804aee0" />
         
 
 ### Quick check
