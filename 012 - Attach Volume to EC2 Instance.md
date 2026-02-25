@@ -18,18 +18,18 @@
 4. Select the volume you want to attach.
 5. Go to **Actions → Attach volume**.
     
-    ![image.png](Attach%20Volume%20to%20EC2%20Instance/image.png)
+    <img width="1465" height="1123" alt="image" src="https://github.com/user-attachments/assets/84f667f5-261a-4125-b0a8-03abdee50a95" />
     
 6. Fill out the required fields, then click **Attach volume**.
     
-    ![image.png](Attach%20Volume%20to%20EC2%20Instance/image%201.png)
+    <img width="1469" height="633" alt="image" src="https://github.com/user-attachments/assets/7f4f88cd-bfe6-4794-8f35-62b3751c713b" />
     
 7. Confirm the volume is attached to the instance:
     1. Go to **Instances → Instances**.
     2. Select the instance.
     3. Go to the **Storage** section and confirm the **Volume ID** matches.
         
-        ![image.png](Attach%20Volume%20to%20EC2%20Instance/image%202.png)
+        <img width="1463" height="1067" alt="image" src="https://github.com/user-attachments/assets/6e946a67-220a-44da-8ad0-f00c130b73ce" />
         
 
 ### Quick check
