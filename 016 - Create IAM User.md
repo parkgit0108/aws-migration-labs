@@ -19,7 +19,7 @@
 3. In the left sidebar, go to **Users**.
 4. Click **Create user**.
     
-    ![image.png](Create%20IAM%20User/image.png)
+    <img width="1469" height="562" alt="image" src="https://github.com/user-attachments/assets/61bf2a3b-8225-40ce-b28f-009647e98a73" />
     
 5. Enter the required details:
     1. **User name**
@@ -27,8 +27,8 @@
 6. Set permissions for the user (choose one):
     - leave as is if no other information provided.
 7. Review the settings, then click **Create user**.
-    
-    ![image.png](Create%20IAM%20User/image%201.png)
+
+   <img width="1473" height="603" alt="image" src="https://github.com/user-attachments/assets/50d98c08-0c62-4997-bb9d-7c9af2733af8" />
     
 
 ### Quick check
