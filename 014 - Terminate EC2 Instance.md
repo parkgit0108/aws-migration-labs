@@ -18,15 +18,15 @@
 4. Select the instance you want to terminate.
 5. Go to **Instance state → Terminate instance** (or **Actions → Instance state → Terminate instance**, depending on the console layout).
     
-    ![image.png](Terminate%20EC2%20Instance/image.png)
+    <img width="1456" height="591" alt="image" src="https://github.com/user-attachments/assets/bdb72a8d-fd9c-4bb2-a730-b7a8039b98a2" />
     
 6. Confirm the termination when prompted.
     
-    ![image.png](Terminate%20EC2%20Instance/image%201.png)
+    <img width="1342" height="720" alt="image" src="https://github.com/user-attachments/assets/997a50fd-3457-4102-9677-a42eaa434f47" />
     
 7. Verify the instance state changes to **Shutting-down**, then **Terminated**.
     
-    ![image.png](Terminate%20EC2%20Instance/image%202.png)
+    <img width="1463" height="235" alt="image" src="https://github.com/user-attachments/assets/fed91f62-1e7b-4ed6-b087-a17c551ffa58" />
     
 
 ### Quick check
