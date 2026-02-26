@@ -19,14 +19,14 @@
 3. In the left sidebar, go to **User groups**.
 4. Click **Create group**.
     
-    ![image.png](Create%20IAM%20Group/image.png)
+    <img width="1472" height="584" alt="image" src="https://github.com/user-attachments/assets/cdb8ec0e-bed7-4817-a887-7dd0c1bc971b" />
     
 5. Enter a **Group name** provided.
 6. (Optional) Add existing users to the group.
 7. Click **Create group**.
 8. The user group now should appear in the list.
     
-    ![image.png](Create%20IAM%20Group/image%201.png)
+    <img width="1465" height="607" alt="image" src="https://github.com/user-attachments/assets/4988ac5e-904f-4737-a2dc-99dffd811508" />
     
 
 ### Quick check
