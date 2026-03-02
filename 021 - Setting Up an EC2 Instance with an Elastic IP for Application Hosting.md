@@ -21,35 +21,30 @@
     2. Set the instance **name** and select settings as per the provided information.
     3. For **Key pair**, select **Proceed without a key pair** (No key pair).
     4. Click **Launch instance**.
-        
-        ![image.png](Setting%20Up%20an%20EC2%20Instance%20with%20an%20Elastic%20IP%20for%20/image.png)
-        
-        ![image.png](Setting%20Up%20an%20EC2%20Instance%20with%20an%20Elastic%20IP%20for%20/image%201.png)
+    
         
 4. Allocate an Elastic IP address:
-    1. Click **Allocate Elastic IP address**.
-    2. In the left sidebar, go to **Network & Security** → **Elastic IPs**.
+    1. In the left sidebar, go to **Network & Security** → **Elastic IPs**.
+    2. Click **Allocate Elastic IP address**.
     3. Leave all settings as default, then click **Allocate**.
-        
-        ![image.png](Setting%20Up%20an%20EC2%20Instance%20with%20an%20Elastic%20IP%20for%20/image%202.png)
         
 5. Associate the Elastic IP address to the instance:
     1. Click **Actions** → **Associate Elastic IP address**.
         
-        ![image.png](Setting%20Up%20an%20EC2%20Instance%20with%20an%20Elastic%20IP%20for%20/image%203.png)
+        <img width="1464" height="358" alt="image" src="https://github.com/user-attachments/assets/114c69ef-961d-43fb-815a-c7a0776def9c" />
         
     2. Add a name provided.
     3. Select the new Elastic IP.
     4. Select the instance you created, then click **Associate**.
         
-        ![image.png](Setting%20Up%20an%20EC2%20Instance%20with%20an%20Elastic%20IP%20for%20/image%204.png)
+        <img width="1468" height="615" alt="image" src="https://github.com/user-attachments/assets/8419de2e-1f7b-406f-9ebf-7ad31cdb5fce" />
         
 6. Confirm the Elastic IP is associated:
     1. Select the instance.
     2. Open **Instances**.
     3. Confirm the **Elastic IP** shows as associated.
         
-        ![image.png](Setting%20Up%20an%20EC2%20Instance%20with%20an%20Elastic%20IP%20for%20/image%205.png)
+        <img width="1471" height="806" alt="image" src="https://github.com/user-attachments/assets/585c014a-a124-4fbf-b9c7-a2e97f140e54" />
         
 
 ### Quick check
