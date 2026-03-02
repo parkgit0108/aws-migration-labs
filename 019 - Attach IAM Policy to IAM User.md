@@ -20,18 +20,18 @@
 4. Search for the policy name provided.
 5. Click the policy name, then select **Actions** → **Attach**.
     
-    ![](Attach%20IAM%20Policy%20to%20IAM%20User/image.png)
-    
+    <img width="1467" height="527" alt="image" src="https://github.com/user-attachments/assets/b179e13c-1e7c-4fc5-824a-67159062281e" />
+
 6. Confirm the correct entity is selected (as provided in the policy details), then click **Attach policy**.
     
-    ![](Attach%20IAM%20Policy%20to%20IAM%20User/image%201.png)
+    <img width="1464" height="454" alt="image" src="https://github.com/user-attachments/assets/9662f1b5-6909-4d63-b51e-4f8dba0f3d84" />
     
 7. Confirm the policy is attached:
     1. Go to **Users**.
     2. Click the target user name.
     3. Open the **Permissions** tab and check **Permissions policies**.
     
-    ![](Attach%20IAM%20Policy%20to%20IAM%20User/image%202.png)
+    <img width="1468" height="625" alt="image" src="https://github.com/user-attachments/assets/45197a64-9066-4235-8a17-95e929b2b528" />
     
 
 ### Quick check
