@@ -44,7 +44,7 @@ sudo systemctl enable nginx
         - **Port:** 80
         - **Source:** `0.0.0.0/0`
             
-            ![image.png](Configuring%20an%20EC2%20Instance%20as%20a%20Web%20Server%20with%20N/image.png)
+            <img width="1472" height="837" alt="image" src="https://github.com/user-attachments/assets/68d151bc-fee2-48ec-b50c-7bc488f797b4" />
             
 3. Verify Nginx is reachable:
     1. Copy the instance **Public IPv4 address**
@@ -52,7 +52,7 @@ sudo systemctl enable nginx
         - `http://<public-ip>`
     3. Confirm the **Nginx default page** loads
         
-        ![image.png](Configuring%20an%20EC2%20Instance%20as%20a%20Web%20Server%20with%20N/image%201.png)
+           <img width="1160" height="495" alt="image" src="https://github.com/user-attachments/assets/7c34fa8e-4e90-4d8b-9da6-f2788f7c4c3a" />
         
 
 ### Quick check
