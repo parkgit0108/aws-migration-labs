@@ -52,7 +52,7 @@ sudo systemctl enable nginx
         - `http://<public-ip>`
     3. Confirm the **Nginx default page** loads
         
-           <img width="1160" height="495" alt="image" src="https://github.com/user-attachments/assets/7c34fa8e-4e90-4d8b-9da6-f2788f7c4c3a" />
+       <img width="1160" height="495" alt="image" src="https://github.com/user-attachments/assets/7c34fa8e-4e90-4d8b-9da6-f2788f7c4c3a" />
         
 
 ### Quick check
